@@ -1,3 +1,4 @@
+puts "Welcome to funwithnumbers!"
 puts "please pick a number"
 num1 = gets.chomp.to_f
 
